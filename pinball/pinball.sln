@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pinball", "Assembly-CSharp.csproj", "{F994898C-AD5A-7872-79F4-80705B0C75EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pinball", "Assembly-CSharp-Editor.csproj", "{30C6E60D-D9A5-AF5F-27DC-90AE04DD829A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F994898C-AD5A-7872-79F4-80705B0C75EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F994898C-AD5A-7872-79F4-80705B0C75EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F994898C-AD5A-7872-79F4-80705B0C75EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F994898C-AD5A-7872-79F4-80705B0C75EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C6E60D-D9A5-AF5F-27DC-90AE04DD829A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C6E60D-D9A5-AF5F-27DC-90AE04DD829A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C6E60D-D9A5-AF5F-27DC-90AE04DD829A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C6E60D-D9A5-AF5F-27DC-90AE04DD829A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
